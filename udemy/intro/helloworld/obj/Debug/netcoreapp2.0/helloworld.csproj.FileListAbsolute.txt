@@ -1,0 +1,10 @@
+/home/mumu/csharp-intro/helloworld/bin/Debug/netcoreapp2.0/helloworld.deps.json
+/home/mumu/csharp-intro/helloworld/bin/Debug/netcoreapp2.0/helloworld.runtimeconfig.json
+/home/mumu/csharp-intro/helloworld/bin/Debug/netcoreapp2.0/helloworld.runtimeconfig.dev.json
+/home/mumu/csharp-intro/helloworld/bin/Debug/netcoreapp2.0/helloworld.dll
+/home/mumu/csharp-intro/helloworld/bin/Debug/netcoreapp2.0/helloworld.pdb
+/home/mumu/csharp-intro/helloworld/obj/Debug/netcoreapp2.0/helloworld.csproj.CoreCompileInputs.cache
+/home/mumu/csharp-intro/helloworld/obj/Debug/netcoreapp2.0/helloworld.AssemblyInfoInputs.cache
+/home/mumu/csharp-intro/helloworld/obj/Debug/netcoreapp2.0/helloworld.AssemblyInfo.cs
+/home/mumu/csharp-intro/helloworld/obj/Debug/netcoreapp2.0/helloworld.dll
+/home/mumu/csharp-intro/helloworld/obj/Debug/netcoreapp2.0/helloworld.pdb

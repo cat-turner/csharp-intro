@@ -1,0 +1,10 @@
+/home/mumu/csharp-intro/udemy/intro/Demos/obj/Debug/netcoreapp2.0/Demos.csproj.CoreCompileInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Demos/obj/Debug/netcoreapp2.0/Demos.AssemblyInfoInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Demos/obj/Debug/netcoreapp2.0/Demos.AssemblyInfo.cs
+/home/mumu/csharp-intro/udemy/intro/Demos/bin/Debug/netcoreapp2.0/Demos.deps.json
+/home/mumu/csharp-intro/udemy/intro/Demos/bin/Debug/netcoreapp2.0/Demos.runtimeconfig.json
+/home/mumu/csharp-intro/udemy/intro/Demos/bin/Debug/netcoreapp2.0/Demos.runtimeconfig.dev.json
+/home/mumu/csharp-intro/udemy/intro/Demos/bin/Debug/netcoreapp2.0/Demos.dll
+/home/mumu/csharp-intro/udemy/intro/Demos/bin/Debug/netcoreapp2.0/Demos.pdb
+/home/mumu/csharp-intro/udemy/intro/Demos/obj/Debug/netcoreapp2.0/Demos.dll
+/home/mumu/csharp-intro/udemy/intro/Demos/obj/Debug/netcoreapp2.0/Demos.pdb
