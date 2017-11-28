@@ -35,6 +35,9 @@ namespace Demos
             var result = Calculator.Add(1,2);
             Console.WriteLine("Result is {0}", result);
 
+            // Section 4.30 - Arrays
+            var arrayExample = new ArraysDemo();
+            arrayExample.Demo();
             
         }
     }
