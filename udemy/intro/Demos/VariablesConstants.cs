@@ -14,7 +14,8 @@ namespace Demos
         public const float Pi = 3.14f;
 
         // use public mechanisms to request current state of data
-        public void variables(){
+        public void variables()
+        {
             System.Console.WriteLine("3.17 - Demo: Variables and Constants");
             Console.WriteLine(this.number);
             Console.WriteLine(this.count);

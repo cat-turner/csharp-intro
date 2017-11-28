@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mumu/csharp-intro/helloworld/helloworld.csproj",
+      "projectUniqueName": "/home/mumu/csharp-intro/udemy/intro/helloworld/helloworld.csproj",
       "projectName": "helloworld",
-      "projectPath": "/home/mumu/csharp-intro/helloworld/helloworld.csproj",
+      "projectPath": "/home/mumu/csharp-intro/udemy/intro/helloworld/helloworld.csproj",
       "packagesPath": "/home/mumu/.nuget/packages/",
-      "outputPath": "/home/mumu/csharp-intro/helloworld/obj/",
+      "outputPath": "/home/mumu/csharp-intro/udemy/intro/helloworld/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

@@ -4,7 +4,8 @@ namespace Demos
 {
     public class TypeConversion
     {
-        public void castingExample(){
+        public void castingExample()
+        {
             System.Console.WriteLine("example");
             // explicit casting
             float f = 1.0f;
@@ -24,7 +25,8 @@ namespace Demos
 
         }
 
-        public void demoByteInt(){
+        public void demoByteInt()
+        {
             Console.WriteLine("Demo");
             byte b = 1;
             int i = b;
