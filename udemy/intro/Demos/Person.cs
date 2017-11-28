@@ -4,6 +4,7 @@ namespace Demos
     public class Person
     {
         public string Name = "Billy";
+        public int Age = 0;
 
         public void Introduce()
         {
