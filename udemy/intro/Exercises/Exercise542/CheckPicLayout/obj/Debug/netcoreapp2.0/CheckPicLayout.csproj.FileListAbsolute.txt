@@ -1,0 +1,10 @@
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/obj/Debug/netcoreapp2.0/CheckPicLayout.csproj.CoreCompileInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/obj/Debug/netcoreapp2.0/CheckPicLayout.AssemblyInfoInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/obj/Debug/netcoreapp2.0/CheckPicLayout.AssemblyInfo.cs
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/bin/Debug/netcoreapp2.0/CheckPicLayout.deps.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/bin/Debug/netcoreapp2.0/CheckPicLayout.runtimeconfig.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/bin/Debug/netcoreapp2.0/CheckPicLayout.runtimeconfig.dev.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/bin/Debug/netcoreapp2.0/CheckPicLayout.dll
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/bin/Debug/netcoreapp2.0/CheckPicLayout.pdb
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/obj/Debug/netcoreapp2.0/CheckPicLayout.dll
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckPicLayout/obj/Debug/netcoreapp2.0/CheckPicLayout.pdb

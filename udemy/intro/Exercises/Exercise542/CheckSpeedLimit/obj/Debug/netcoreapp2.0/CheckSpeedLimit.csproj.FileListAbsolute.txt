@@ -1,0 +1,10 @@
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/obj/Debug/netcoreapp2.0/CheckSpeedLimit.csproj.CoreCompileInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/obj/Debug/netcoreapp2.0/CheckSpeedLimit.AssemblyInfoInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/obj/Debug/netcoreapp2.0/CheckSpeedLimit.AssemblyInfo.cs
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/bin/Debug/netcoreapp2.0/CheckSpeedLimit.deps.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/bin/Debug/netcoreapp2.0/CheckSpeedLimit.runtimeconfig.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/bin/Debug/netcoreapp2.0/CheckSpeedLimit.runtimeconfig.dev.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/bin/Debug/netcoreapp2.0/CheckSpeedLimit.dll
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/bin/Debug/netcoreapp2.0/CheckSpeedLimit.pdb
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/obj/Debug/netcoreapp2.0/CheckSpeedLimit.dll
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckSpeedLimit/obj/Debug/netcoreapp2.0/CheckSpeedLimit.pdb

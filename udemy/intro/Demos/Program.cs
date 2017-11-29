@@ -74,6 +74,14 @@ namespace Demos
             -classes: strings, arrays, custom classes
             -See previous sections for examples*/
 
+            // Section 5 - Control Flow
+
+            // Section 5.41 - Demo: If/Else and Switch/Case
+
+            ConditionalStatements.demoChainedCond();
+            ConditionalStatements.demoCondOperator();
+            ConditionalStatements.demoSwitchWithEnum();
+
 
         }
     }

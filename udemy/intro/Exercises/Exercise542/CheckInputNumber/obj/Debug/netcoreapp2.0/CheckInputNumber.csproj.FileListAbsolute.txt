@@ -1,0 +1,10 @@
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/obj/Debug/netcoreapp2.0/CheckInputNumber.csproj.CoreCompileInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/obj/Debug/netcoreapp2.0/CheckInputNumber.AssemblyInfoInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/obj/Debug/netcoreapp2.0/CheckInputNumber.AssemblyInfo.cs
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/bin/Debug/netcoreapp2.0/CheckInputNumber.deps.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/bin/Debug/netcoreapp2.0/CheckInputNumber.runtimeconfig.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/bin/Debug/netcoreapp2.0/CheckInputNumber.runtimeconfig.dev.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/bin/Debug/netcoreapp2.0/CheckInputNumber.dll
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/bin/Debug/netcoreapp2.0/CheckInputNumber.pdb
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/obj/Debug/netcoreapp2.0/CheckInputNumber.dll
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/CheckInputNumber/obj/Debug/netcoreapp2.0/CheckInputNumber.pdb

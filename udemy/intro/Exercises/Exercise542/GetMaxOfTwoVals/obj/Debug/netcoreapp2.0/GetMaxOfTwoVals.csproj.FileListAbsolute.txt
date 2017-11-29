@@ -1,0 +1,10 @@
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/obj/Debug/netcoreapp2.0/GetMaxOfTwoVals.csproj.CoreCompileInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/obj/Debug/netcoreapp2.0/GetMaxOfTwoVals.AssemblyInfoInputs.cache
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/obj/Debug/netcoreapp2.0/GetMaxOfTwoVals.AssemblyInfo.cs
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/bin/Debug/netcoreapp2.0/GetMaxOfTwoVals.deps.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/bin/Debug/netcoreapp2.0/GetMaxOfTwoVals.runtimeconfig.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/bin/Debug/netcoreapp2.0/GetMaxOfTwoVals.runtimeconfig.dev.json
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/bin/Debug/netcoreapp2.0/GetMaxOfTwoVals.dll
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/bin/Debug/netcoreapp2.0/GetMaxOfTwoVals.pdb
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/obj/Debug/netcoreapp2.0/GetMaxOfTwoVals.dll
+/home/mumu/csharp-intro/udemy/intro/Exercises/Exercise542/GetMaxOfTwoVals/obj/Debug/netcoreapp2.0/GetMaxOfTwoVals.pdb
